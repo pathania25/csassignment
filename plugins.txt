@@ -1,1 +1,2 @@
 role-strategy:latest
+authorize-project:latest
