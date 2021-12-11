@@ -5,7 +5,9 @@ Software installed:
 3. Git -> version 2.25.1
 4. Docker CE -> version 20.10.11
 
-Note: All setup has been done on AWS EC2 Ubuntu instance.
+Note: 
+1. All setup has been done on AWS EC2 Ubuntu instance.
+2. ALl required ports are open to perform the assignment.
 
 Prerequisites:
 
